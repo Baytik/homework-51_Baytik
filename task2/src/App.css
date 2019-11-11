@@ -1,0 +1,36 @@
+.main-nav li {
+    display: inline-block;
+    padding: 0 10px;
+}
+.main-nav a {
+    text-decoration: none;
+    color: black;
+}
+.main-nav a:hover {
+    text-decoration: underline;
+}
+.main-pic {
+    background: url("main-pic.jpg") 0 0 no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.main-title {
+    color: red;
+    text-align: center;
+    padding-top: 50px;
+}
+.main-text {
+    color: red;
+    width: 450px;
+    padding-left: 450px;
+    font-weight: bold;
+}
+footer {
+    padding: 20px 0;
+    background: black;
+}
+.text {
+    margin: 0;
+    text-align: center;
+    color: white;
+}
